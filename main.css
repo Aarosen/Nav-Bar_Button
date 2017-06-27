@@ -1,0 +1,45 @@
+.container {
+  margin: 0 auto;
+  width: 720px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 15px 0px 0px 35px;
+    padding: 0;
+    background-color: #dddddd;
+}
+
+li {
+    float: left;
+    border: solid white 1px;
+}
+
+
+a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 30px 14px 30px;
+    text-decoration: none;
+    margin: solid;
+    margin-color: white;
+    background: -webkit-linear-gradient(white, #dddddd);
+}
+
+.a1 {
+	border-radius: 10px 0px 0px 10px;
+}
+
+.a5 {
+	border-radius: 0px 10px 10px 0px
+}
